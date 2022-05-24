@@ -4,3 +4,20 @@ Algoritmo para calcular o censo demográfico
 
 
 
+Inicio
+
+    gereno
+    feminino
+    masculino
+    outro
+    altura
+    idade
+    calcular media de idade dos grupos
+    calcular media de altura das mulheres
+    calcular media de idade dos homens
+    pessoas que se identificam como outros
+    mostrar outros
+    percentual de pessoas entre 18 e 35 anos
+
+
+fim
